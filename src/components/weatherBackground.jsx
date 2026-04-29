@@ -8,7 +8,7 @@ import ClearNight from "../assets/ClearNight.gif";
 import CloudDay from "../assets/CloudDay.gif";
 import CloudNight from "../assets/CloudNight.gif";
 import Haze from "../assets/Haze.gif";
-import Home from "../assets/Home.Webp"
+import Home from "../assets/Home.Webp";
 
 const WeatherBackground = ({ condition, isNight }) => {
 
